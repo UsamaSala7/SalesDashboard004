@@ -12,15 +12,6 @@ A multi-page Power BI report built on an AdventureWorks-style sales dataset, cov
 **Order Details page (drill-through)** – product-level breakdown per order
 ![Order Details Page](orderdetails-page.png)
 
-## Overview
-
-**Key Metrics**
-- Total Due: $123.2M
-- Freight: $3.2M
-- Tax: $10.2M
-- SubTotal: $109.8M
-- Orders: 31K
-- Order Details: 121K
 
 **Visuals**
 - Orders by Date (trend line)
@@ -41,4 +32,3 @@ Built on a relational sales schema including `Orders`, `OrderDetails`, `Customer
 
 - Power BI Desktop
 - DAX measures
-- SQL pre-aggregation
